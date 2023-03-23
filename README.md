@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ckdavis8817
-- 👀 I’m interested in social media marketing
-- 🌱 I’m currently learning branding
-- 💞️ I’m looking to collaborate on social media management
+- 👋 Hi, I’m "The Marketing Maverick" @ckdavis8817
+- 👀 I’m interested in brand stratgey for digital marketing
+- 🌱 I’m a certified brand strategist, Unix Admin, digital developer
+- 💞️ I’m looking to collaborate on SaaS platform developemnt
 - 📫 How to reach me ckdavis8817@gmail.com
 
 <!---
